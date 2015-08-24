@@ -30,3 +30,4 @@ B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\bin\Debug\Wag
 B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Form1.resources
 B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage_Calculator.Resources.resources
 B:\Chapt_01\examples\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.vbproj.GenerateResource.Cache
+C:\Users\Ankan.basu\Desktop\NR.EDU\ITP112 - Visual Basic\Student Data Files\Student Sample Programs\Chap1\Project Files\Wage Calculator\Wage Calculator\obj\x86\Debug\Wage Calculator.exe
